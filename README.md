@@ -102,11 +102,11 @@ Welcome to my journalism and editorial portfolio! I am a Copy Editor and Journal
 - Long-form features and special reports  
 
 <p align="center">
-  <img src="assets/work-preview.png" width="600" alt="Editorial Work Preview"/>
+  <img src="assets/work-preview.jpg" width="600" alt="Editorial Work Preview"/>
 </p>
 
 📁 **Portfolio:**  
-https://drive.google.com/drive/folders/159ayn-llms7Eoc_bXY2VJhlUEAdGuPij?usp=sharing
+https://drive.google.com/drive/folders/159ayn-llms7Eoc_bXY2VJhlUEAdGuPij 
 
 ---
 
